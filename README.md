@@ -1,4 +1,5 @@
 A few important notes if you appear to have problems with the speech recognition: 
+
 *check you dont have earphones on
 
 *check your edge/chrome is updated
